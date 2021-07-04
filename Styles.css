@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:blanchedalmond;
+    margin: 0px;
+}
+#heading{
+    background-color: rgb(1, 1, 99);
+    width: 450px;
+    margin: 0px;
+    padding: 20px;
+    border: 1px solid rgb(1, 1, 99);
+    border-radius: 10px;
+    color: white;
+    font-size: 2em;
+}
+#title{
+    margin-top: 30px;
+}
+#title label,input{
+    margin: 6px
+}
+table{
+    margin: 30px; 
+}
+td{
+    background-color: burlywood;
+    border: 2px solid black;
+    width: 60px;
+    height: 60px;
+    padding-top: 0px;
+    text-align:center;
+    font-size: 3em;
+}
